@@ -13,11 +13,11 @@ __Order__:
 
 1) 3D image of packing (in <font color = 'green'>__Java__</font> using ImageJ software)
 
-* see movie_packing_REAL.mov
+  * see movie_packing_REAL.mov
 
 2) 3D image processing and object-recognition/particle-tracking (in <font color = 'green'>__MATLAB__</font> + _parallel-computing_)
 
-* see particleTracker_position.m, particleTracker_size.m, contactAnalysis.m, and /particleTrackMatlab
+  * see particleTracker_position.m, particleTracker_size.m, contactAnalysis.m, and /particleTrackMatlab
 
 3) 3D visualization (via <font color ='green'>__C__</font>, <font color='green'>__BASH__</font>, POV-ray) 
 
