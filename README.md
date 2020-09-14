@@ -12,8 +12,7 @@ __Content of this repository__: programs and some of the results (i.e., .png, .m
 __Order__:
 
 1) 3D image of packing (in <font color = 'green'>__Java__</font> using ImageJ software)
-
-  * see movie_packing_REAL.mov
+    * see movie_packing_REAL.mov
 
 2) 3D image processing and object-recognition/particle-tracking (in <font color = 'green'>__MATLAB__</font> + _parallel-computing_)
 
