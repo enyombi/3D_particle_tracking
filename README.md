@@ -5,7 +5,20 @@ studying random packing of collids for developing statistical physics models tha
 
 __Content of this repository__: programs and some of the results (i.e., .png, .mov, .m4v) of those programs used...
 
-1) to locate >1000 particles in a 3D confocal image, 
+1) to locate >1000 particles in a 3D image, 
 2) to approximate the size of particles, and 
 3) to identify contacts between particles
 
+__Order__:
+
+1) 3D image of packing (in <font color = 'green'>Java</font> using ImageJ software)
+
+* see movie_packing_REAL.mov
+
+2) 3D image processing and object-recognition/particle-tracking (in <font color = 'green'>MATLAB</font> + _parallel-computing_)
+
+* see particleTracker_position.m, particleTracker_size.m, contactAnalysis.m, and /particleTrackMatlab
+
+3) 3D visualization (via <font color ='green'>C</font>, <font color='green'>BASH</font>, POV-ray) 
+
+* generateResults.cc --> pngTojpg.sh  --> filenameTonumber.sh --> povray for 3D rendering/visualization (i.e., packing.png, movie_packing_RECONSTRUCTED.mp4, packing_contactNetwork.pdf)
