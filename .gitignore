@@ -1,0 +1,17 @@
+#ignore all data files
+*.csv
+*.txt
+*.log
+*.DTA
+*.eps
+
+#ignore all files with ~
+*~
+.*~
+
+#ignore directory indexing made on MAC OS
+.DS_Store
+
+#ignore python cache
+__pycache__/*
+
