@@ -15,9 +15,7 @@ __Order__:
     * see movie_packing_REAL.mov
 
 2) 3D image processing and object-recognition/particle-tracking (in <font color = 'green'>__MATLAB__</font> + _parallel-computing_)
-
-  * see particleTracker_position.m, particleTracker_size.m, contactAnalysis.m, and /particleTrackMatlab
+    * see particleTracker_position.m, particleTracker_size.m, contactAnalysis.m, and /particleTrackMatlab
 
 3) 3D visualization (via <font color ='green'>__C__</font>, <font color='green'>__BASH__</font>, POV-ray) 
-
-* generateResults.cc --> pngTojpg.sh  --> filenameTonumber.sh --> povray for 3D rendering/visualization (i.e., packing.png, movie_packing_RECONSTRUCTED.mp4, packing_contactNetwork.pdf)
+   * generateResults.cc --> pngTojpg.sh  --> filenameTonumber.sh --> povray for 3D rendering/visualization (i.e., packing.png, movie_packing_RECONSTRUCTED.mp4, packing_contactNetwork.pdf)
