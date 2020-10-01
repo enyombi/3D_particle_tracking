@@ -1,6 +1,5 @@
 #ignore all data files
 *.csv
-*.txt
 *.log
 *.DTA
 *.eps
