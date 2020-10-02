@@ -15,7 +15,7 @@
 
 ## Motivation for a general, NON-scientific audience:
 
-(_You CAN/SHOULD skip this. BUT if you stumbled upon this page and you're wondering what you're looking at. Please don't run away. This is for you_).  
+(*__You CAN/SHOULD skip this. BUT if you stumbled upon this page and you're wondering what you're looking at. Please don't run away. This is for you__*).  
    
    In elementary school we learn about the phases of matter: solid, liquid, and gas.  
    
