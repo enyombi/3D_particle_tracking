@@ -1,11 +1,16 @@
 # 3D_particle_tracking
 
-__Context__: PhD research (<font color = 'blue'> https://arxiv.org/abs/1708.04702 </font>) 
-studying random packing of colloids for developing statistical physics models that predict random structure 
+## Context: 
+
+* PhD research https://arxiv.org/abs/1708.04702 
+
+* studying random packing of colloids for developing statistical physics models that predict random structure 
 
 ------
 
-__Motivation <font color = 'magenta'>for a general, NON-scientific audience </font>__ (_if you stumbled upon this page and you're wondering what your looking at, then this is for you_):  
+## Motivation for a general, NON-scientific audience:
+
+(_You CAN/SHOULD skip this BUT if you stumbled upon this page and you're wondering what you're looking at. Please don't run away. This is for you_):  
    
    In elementary school we learn about the phases of matter: solid, liquid, and gas.  
    
@@ -31,11 +36,13 @@ __Motivation <font color = 'magenta'>for a general, NON-scientific audience </fo
    
    _My PhD research studies random arrangements of microscopic particles of 'sand' (aka silica) and then uses statistical physics (i.e., lots of math and probabilities) to try to predict randomness.  I worked closely with physicists to build and to test numerous theories on randomness found in granular matter.  I also designed the experimental system (i.e., 3D images of fluorescent microscopic 'sand') and programmed the machine-learning algorithms used to analyze this system_. 
    
-   __This repo. contains those machine learning algorithms!__
+   __*This repo. contains those machine-learning algorithms!*__
    
 -----
 
-__Content of this repository__: programs and some of the results (i.e., .png, .mov, .m4v) of those programs used...
+## Contents of this repository: 
+
+programs and some of the results (i.e., .png, .mov, .m4v) of those programs used...
 
 1) to locate >1000 particles in a 3D image (particleTracker_position.m), 
 
@@ -47,7 +54,7 @@ __Content of this repository__: programs and some of the results (i.e., .png, .m
 
 __note__: /particleTrackMatlab contains all the functions needed to run the programs above
 
-__Chronological order__:
+## Chronological order of analysis:
 
 1) 3D image of packing (in <font color = 'green'>__Java__</font> using ImageJ software)
 
