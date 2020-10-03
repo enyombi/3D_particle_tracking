@@ -75,6 +75,6 @@ programs and some of the results (i.e., .png, .mov, .m4v) of those programs used
 
    * For programs, see /code_movies_and_images
    
-      * generateResults.cc --> pngTojpg.sh  --> filenameTonumber.sh --> povray for 3D rendering/visualization (i.e., packing.png, movie_packing_RECONSTRUCTED.mp4, packing_contactNetwork.pdf)
+      * generateResults.cc --> $povray ().pov --> pngTojpg.sh  --> filenameTonumber.sh --> povray for 3D rendering/visualization (see /movies_particleTracking)
       
    * For results (i.e., reconstructed 3D images and movies), see /movies_particleTracking and /images_particleTracking
